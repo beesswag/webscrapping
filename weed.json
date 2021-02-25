@@ -1,0 +1,29 @@
+[
+   {
+      "producer": "48NORTH",
+      "name": "Granddaddy Purple",
+      "type": "Indica",
+      "method": "Flower",
+      "potency": "THC: 17.3%  |  CBD: 1%",
+      "grams": "3.5g  -  ",
+      "price": "$32.95"
+   },
+   {
+      "producer": "48NORTH",
+      "name": "Granddaddy Purple",
+      "type": "Sativa",
+      "method": "Pre-Rolls",
+      "potency": "THC: 22.7%  |  CBD: 1%",
+      "grams": "3.5g  -  ",
+      "price": "$34.95"
+   },
+   {
+      "producer": "48NORTH",
+      "name": "Green Crush",
+      "type": "Indica",
+      "method": "Vaporizers",
+      "potency": "THC: 17.7%  |  CBD: 1%",
+      "grams": "3.5g  -  ",
+      "price": "$27.95"
+   }
+]
